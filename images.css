@@ -1,0 +1,147 @@
+.start {
+  text-align: center;
+}
+
+a {
+  height: 800px;
+}
+* {
+  background: rgb(50, 50, 50);
+}
+
+#savage {
+  /* background: lightpink; */
+  background: url(./photos/212121.jpg);
+  background-color: black;
+  /* height: 400px; */
+  background-repeat: repeat;
+  /* Placing text in center */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 100px;
+  font-weight: bold;
+  border: 5px solid pink;
+  color: red;
+  font-style: italic;
+  background-attachment: fixed;
+  background-size: cover;
+  /* background-repeat: round; */
+  /* background-position:center;  */
+  /* background-size:cover;   */
+  /* padding: 200px; */
+  /* margin: 0 auto; */
+  /* font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", */
+  /* "Lucida Sans", Arial, sans-serif; */
+}
+
+#bipolar {
+  background: lightpink;
+  background: url(./photos/bipolar.jpeg);
+  background-size: 310px;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid pink;
+  text-decoration: none;
+  font-size: 100px;
+  font-weight: bolder;
+  color: rgb(230, 9, 9);
+  background-attachment: fixed;
+  /* background-size: cover; */
+  /* background-repeat:repeat; */
+  font-style: italic;
+}
+
+#whatcost {
+  background: lightpink;
+  background: url(./photos/Atwhatcost.jpg);
+  background-size: 310px;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid pink;
+  text-decoration: none;
+  font-size: 100px;
+  font-weight: bolder;
+  color: rgb(238, 241, 23);
+  background-attachment: fixed;
+  background-size: cover;
+  /* color: white; */
+  font-style: italic;
+}
+
+#divine {
+  background: lightpink;
+  background: url(./photos/itwasdivine.png);
+  background-size: 310px;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid pink;
+  text-decoration: none;
+  font-size: 100px;
+  font-weight: bolder;
+  color: white;
+  background-attachment: fixed;
+  /* background-size: cover; */
+  font-style: italic;
+}
+
+#black {
+  background: lightpink;
+  background: url(./photos/6lack2.jpg);
+  background-size: 310px;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid pink;
+  text-decoration: none;
+  font-size: 100px;
+  font-weight: bolder;
+  color: white;
+  background-attachment: fixed;
+  /* background-size: cover; */
+  font-style: italic;
+}
+
+#frank {
+  background: lightpink;
+  background: url(./photos/blond2.jpg);
+  background-size: 310px;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid pink;
+  text-decoration: none;
+  font-size: 100px;
+  font-weight: bolder;
+  color: white;
+  background-attachment: fixed;
+  /* background-size: cover; */
+  font-style: italic;
+}
+
+#khalid {
+  background: lightpink;
+  background: url(./photos/Khalid2.jpg);
+  background-size: 310px;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid pink;
+  text-decoration: none;
+  font-size: 100px;
+  font-weight: bolder;
+  color: white;
+  background-attachment: fixed;
+  /* background-size: cover; */
+  font-style: italic;
+}
