@@ -11,7 +11,7 @@ a {
 
 #savage {
   /* background: lightpink; */
-  background: url(./photos/212121.jpg);
+  background: url(./Photos/212121.jpg);
   background-color: black;
   /* height: 400px; */
   background-repeat: repeat;
@@ -38,7 +38,7 @@ a {
 
 #bipolar {
   background: lightpink;
-  background: url(./photos/bipolar.jpeg);
+  background: url(./Photos/bipolar.jpeg);
   background-size: 310px;
   /* height: 400px; */
   display: flex;
@@ -57,7 +57,7 @@ a {
 
 #whatcost {
   background: lightpink;
-  background: url(./photos/Atwhatcost.jpg);
+  background: url(./Photos/Atwhatcost.jpg);
   background-size: 310px;
   /* height: 400px; */
   display: flex;
@@ -76,7 +76,7 @@ a {
 
 #divine {
   background: lightpink;
-  background: url(./photos/itwasdivine.png);
+  background: url(./Photos/itwasdivine.png);
   background-size: 310px;
   /* height: 400px; */
   display: flex;
@@ -94,7 +94,7 @@ a {
 
 #black {
   background: lightpink;
-  background: url(./photos/6lack2.jpg);
+  background: url(./Photos/6lack2.jpg);
   background-size: 310px;
   /* height: 400px; */
   display: flex;
@@ -112,7 +112,7 @@ a {
 
 #frank {
   background: lightpink;
-  background: url(./photos/blond2.jpg);
+  background: url(./Photos/blond2.jpg);
   background-size: 310px;
   /* height: 400px; */
   display: flex;
@@ -130,7 +130,7 @@ a {
 
 #khalid {
   background: lightpink;
-  background: url(./photos/Khalid2.jpg);
+  background: url(./Photos/Khalid2.jpg);
   background-size: 310px;
   /* height: 400px; */
   display: flex;
